@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724908982 source:c:\users\manasa\documents\codeblocks\graph concepts\graph-detectcycle\main.cpp
+	<iostream>
+	<map>
+	<list>
+
