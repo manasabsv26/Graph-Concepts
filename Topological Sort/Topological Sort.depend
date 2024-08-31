@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1725148008 source:c:\users\manasa\documents\codeblocks\graph concepts\topological sort\main.cpp
+	<iostream>
+	<map>
+	<stack>
+	<list>
+	<vector>
+
