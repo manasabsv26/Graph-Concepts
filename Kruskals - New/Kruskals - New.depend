@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1725069085 source:c:\users\manasa\documents\codeblocks\graph concepts\kruskals - new\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+
