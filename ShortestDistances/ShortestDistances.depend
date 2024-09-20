@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1726810860 source:c:\users\manasa\documents\codeblocks\heaps\shortestdistances\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<list>
+	<utility>
+
